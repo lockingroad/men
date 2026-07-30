@@ -214,6 +214,11 @@
   },
   "active": "022e216ea5b2bc34",
   "lastOpenFiles": [
+    "website/zq-menyixiu-web/docs/superpowers/plans/2026-07-30-featured-case-entry.md",
+    "website/zq-menyixiu-web/docs/superpowers/plans",
+    "website/zq-menyixiu-web/docs/superpowers/specs/2026-07-30-featured-case-entry-design.md",
+    "website/zq-menyixiu-web/docs/superpowers/specs",
+    "website/zq-menyixiu-web/docs/superpowers",
     "website/zq-menyixiu-web/public/images/cases/hualian-south-industrial-roller-door/door-overview.webp",
     "website/zq-menyixiu-web/node_modules/semver/bin/semver.js",
     "website/zq-menyixiu-web/node_modules/semver/bin",
@@ -223,9 +228,6 @@
     "website/zq-menyixiu-web/node_modules/@img/sharp-libvips-darwin-arm64/versions.json",
     "website/zq-menyixiu-web/node_modules/@img/sharp-libvips-darwin-arm64/package.json",
     "website/zq-menyixiu-web/node_modules/next/dist/compiled/@vercel/og/yoga.wasm",
-    "website/zq-menyixiu-web/node_modules/next/dist/compiled/@vercel/og/resvg.wasm",
-    "website/zq-menyixiu-web/node_modules/next/dist/compiled/source-map08/mappings.wasm",
-    "website/zq-menyixiu-web/node_modules/next/dist/compiled/@edge-runtime/primitives/url.js.LEGAL.txt",
     "website/zq-menyixiu-web/node_modules/next/README.md",
     "website/zq-menyixiu-web/node_modules/next/dist/compiled/regenerator-runtime/README.md",
     "website/zq-menyixiu-web/node_modules/next/dist/compiled/react-refresh/README.md",
@@ -249,7 +251,6 @@
     "website/zq-menyixiu-web/node_modules/next/dist/docs/02-pages/04-api-reference/04-config/01-next-config-js/poweredByHeader.md",
     "website/zq-menyixiu-web/node_modules/next/dist/docs/02-pages/04-api-reference/04-config/01-next-config-js/pageExtensions.md",
     "website/zq-menyixiu-web/node_modules/next/dist/docs/02-pages/04-api-reference/04-config/01-next-config-js/output.md",
-    "website/zq-menyixiu-web/node_modules/next/dist/docs/02-pages/04-api-reference/04-config/01-next-config-js/optimizePackageImports.md",
     "website/zq-menyixiu-web/public/images/cases/hualian-south-industrial-roller-door/chain-repair.webp",
     "website/zq-menyixiu-web/public/images/cases/hualian-south-industrial-roller-door/motor-and-drive.webp",
     "website/zq-menyixiu-web/public/images/cases/hualian-south-industrial-roller-door/onsite-repair.webp",
@@ -258,7 +259,6 @@
     "website/zq-menyixiu-web/src/assets/hero.png",
     "website/zq-menyixiu-web/public/images/logo.jpg",
     "website/zq-menyixiu-web/public/images/hero-bg.png",
-    "website/zq-menyixiu-web/public/images/douyin-profile.jpg",
-    "website/zq-menyixiu-web/public/icons.svg"
+    "website/zq-menyixiu-web/public/images/douyin-profile.jpg"
   ]
 }
