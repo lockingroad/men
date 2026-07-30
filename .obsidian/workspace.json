@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "content/遥控4.0/遥控4.0内容.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "遥控4.0内容"
+            }
+          },
+          {
+            "id": "21bce56e67e2f1e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "抖音运营思考/爆款复刻的算法真相与运营破局.md",
                 "mode": "source",
                 "source": false
@@ -20,8 +34,23 @@
               "icon": "lucide-file",
               "title": "爆款复刻的算法真相与运营破局"
             }
+          },
+          {
+            "id": "022e216ea5b2bc34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/遥控3.0/遥控3.0内容.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "遥控3.0内容"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,21 +212,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "da039345b9f1d49e",
+  "active": "022e216ea5b2bc34",
   "lastOpenFiles": [
-    "content/遥控 2.1/内容.md",
-    "content/遥控4.0/遥控4.0内容.md",
-    "抖音运营思考/抖音运营规律与新号冷启动理论猜想.md",
-    "Untitled.md",
-    "抖音运营思考",
-    "content/遥控4.0",
-    "content/遥控3.0/遥控3.0复盘.md",
+    "geo/GEO 优化.md",
     "content/遥控3.0/遥控3.0内容.md",
-    "content/限位器3.0/限位器3.0 内容.md",
-    "content/遥控3.0",
-    "content/限位器3.0",
-    "content/遥控 2.1",
-    "Welcome.md",
-    "content"
+    "content/遥控4.0/遥控4.0内容.md",
+    "docs/superpowers/specs/2026-07-30-git-readme-design.md",
+    "docs/superpowers/specs",
+    "docs/superpowers",
+    "docs",
+    "website/zq-menyixiu-web/src/app/faq/[slug]/page.js",
+    "website/zq-menyixiu-web/src/app/faq/page.js",
+    "website/zq-menyixiu-web/src/app/faq/[slug]",
+    "website/zq-menyixiu-web/src/app/cases/page.js",
+    "website/zq-menyixiu-web/src/lib/markdown.js",
+    "website/zq-menyixiu-web/src/lib/config.js",
+    "website/zq-menyixiu-web/src/components/MobileCallBar.js",
+    "website/zq-menyixiu-web/src/assets/vite.svg",
+    "website/zq-menyixiu-web/src/assets/hero.png",
+    "website/zq-menyixiu-web/public/images/logo.jpg",
+    "website/zq-menyixiu-web/public/images/hero-bg.png",
+    "website/zq-menyixiu-web/public/images/douyin-profile.jpg",
+    "website/zq-menyixiu-web/content/faq/spring-broken.md",
+    "website/zq-menyixiu-web/content/faq/remote-failure.md",
+    "website/zq-menyixiu-web/content/faq/rail-rust.md",
+    "website/zq-menyixiu-web/content/faq/motor-humming.md",
+    "website/zq-menyixiu-web/content/faq/door-stuck.md",
+    "website/zq-menyixiu-web/content/faq/auto-rebound.md",
+    "website/zq-menyixiu-web/public/icons.svg",
+    "website/zq-menyixiu-web/public/favicon.svg",
+    "website/zq-menyixiu-web/docs/添加维修案例说明.md",
+    "website/zq-menyixiu-web/README.md",
+    "website/zq-menyixiu-web/CLAUDE.md",
+    "geo/GEO 开源库.md",
+    "抖音运营思考/爆款复刻的算法真相与运营破局.md",
+    "website/src/assets/vite.svg",
+    "website/src/assets/hero.png",
+    "website/public/images/logo.jpg",
+    "website/docs/添加维修案例说明.md",
+    "website/content/faq/spring-broken.md",
+    "website/content/faq/remote-failure.md",
+    "website/content/faq/rail-rust.md",
+    "website/content/faq/motor-humming.md",
+    "website/content/faq/door-stuck.md",
+    "website/content/faq/auto-rebound.md",
+    "website/README.md",
+    "website/CLAUDE.md",
+    "抖音运营思考/抖音运营规律与新号冷启动理论猜想.md",
+    "content/遥控 2.1/内容.md"
   ]
 }
