@@ -1,0 +1,17 @@
+# 视频文件不纳入版本控制（体积过大，保留在本地）
+# 如需分享请使用外部存储（OSS/网盘）并在 markdown 中放置链接
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.m4v
+*.webm
+*.flv
+*.wmv
+
+# macOS
+.DS_Store
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
