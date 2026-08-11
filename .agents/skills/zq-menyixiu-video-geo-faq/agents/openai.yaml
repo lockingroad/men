@@ -1,0 +1,4 @@
+interface:
+  display_name: "门壹修视频 FAQ 发布"
+  short_description: "将门壹修短视频发布为可验证的 GEO FAQ 页面"
+  default_prompt: "Use $zq-menyixiu-video-geo-faq to publish this 门壹修视频为 GEO FAQ 页面。"
