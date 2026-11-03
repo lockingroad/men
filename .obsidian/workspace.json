@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "遥控4.0内容"
             }
-          },
-          {
-            "id": "21bce56e67e2f1e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "抖音运营思考/爆款复刻的算法真相与运营破局.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "爆款复刻的算法真相与运营破局"
-            }
-          },
-          {
-            "id": "022e216ea5b2bc34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/遥控4.0/遥控4.0内容.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "遥控4.0内容"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -214,6 +187,22 @@
   },
   "active": "7784e64a84455610",
   "lastOpenFiles": [
+    "website/zq-menyixiu-web/tests/faq-motor-brake-freezing.test.mjs",
+    "website/zq-menyixiu-web/content/faq/roller-door-motor-brake-freezing.md",
+    "website/zq-menyixiu-web/public/images/faq/roller-door-motor-brake-freezing/stop-use.jpg",
+    "website/zq-menyixiu-web/public/images/faq/roller-door-motor-brake-freezing/brake-demo.jpg",
+    "website/zq-menyixiu-web/public/images/faq/roller-door-motor-brake-freezing/snowy-door.jpg",
+    "website/zq-menyixiu-web/public/images/faq/roller-door-motor-brake-freezing/poster.jpg",
+    "website/zq-menyixiu-web/public/videos/faq/roller-door-motor-brake-freezing.mp4",
+    "website/zq-menyixiu-web/public/images/faq/roller-door-motor-brake-freezing",
+    "content/电机1/电机1 copy.mp4",
+    "content/电机1/电机1.mp4",
+    "content/电机1/电机1.md",
+    "content/电机1",
+    "content/限位器3.0/限位器3.0 内容.md",
+    "content/限位器3.0/限位器3.0原视频.mp4",
+    "content/储备电源version1/储备电源v1.md",
+    "content/遥控4.0/遥控4.0内容.md",
     "website/zq-menyixiu-web/content/faq/roller-door-limit-adjustment-not-working.md",
     "website/zq-menyixiu-web/public/images/faq/roller-door-limit-adjustment-not-working/brake-safety.jpg",
     "website/zq-menyixiu-web/public/images/faq/roller-door-limit-adjustment-not-working/crown-wheel.jpg",
@@ -225,24 +214,13 @@
     "website/zq-menyixiu-web/public/images/faq/roller-door-limit-adjustment-not-working",
     "content/限位器3.0/限位器3.0复盘.md",
     "content/限位器3.0/限位器3.0原视频 copy.mp4",
-    "content/限位器3.0/限位器3.0原视频.mp4",
     "website/zq-menyixiu-web/tests/faq-limit-video.test.mjs",
     "website/zq-menyixiu-web/content/faq/roller-door-limit-adjustment.md",
-    "website/zq-menyixiu-web/public/images/faq/roller-door-limit-adjustment/restore-turn-count.jpg",
-    "website/zq-menyixiu-web/public/images/faq/roller-door-limit-adjustment/find-limit-hole.jpg",
-    "website/zq-menyixiu-web/public/images/faq/roller-door-limit-adjustment/poster.jpg",
-    "website/zq-menyixiu-web/public/images/faq/roller-door-limit-adjustment/limit-mechanism.jpg",
-    "website/zq-menyixiu-web/public/videos/faq/roller-door-limit-adjustment.mp4",
-    "website/zq-menyixiu-web/public/images/faq/roller-door-limit-adjustment",
-    "content/限位器1.0/限位器1.0原视频.mp4",
-    "content/限位器1.0/lv_0_20251129012455 copy.mp4",
-    "content/限位器1.0/lv_0_20251129012455.mp4",
     "content/限位器1.0/限位器1.0复盘.md",
     "content/限位器1.0/限位器1.0gemini复盘.md",
     "content/限位器1.0/限位器1.0gpt复盘.md",
     "content/限位器1.0/限位器1.0内容.md",
     "website/zq-menyixiu-web/content/faq/remote-button-reversed.md",
-    "content/限位器3.0/限位器3.0 内容.md",
     "geo/GEO 优化.md",
     "website/zq-menyixiu-web/docs/superpowers/plans/2026-07-30-featured-case-entry.md",
     "website/zq-menyixiu-web/docs/superpowers/specs/2026-07-30-featured-case-entry-design.md",
@@ -254,11 +232,6 @@
     "website/zq-menyixiu-web/node_modules/next/dist/compiled/@babel/runtime/README.md",
     "website/zq-menyixiu-web/node_modules/next/license.md",
     "website/zq-menyixiu-web/node_modules/next/dist/docs/02-pages/04-api-reference/04-config/01-next-config-js/webpack.md",
-    "website/zq-menyixiu-web/node_modules/next/dist/docs/02-pages/04-api-reference/04-config/01-next-config-js/webVitalsAttribution.md",
-    "website/zq-menyixiu-web/node_modules/next/dist/docs/02-pages/04-api-reference/04-config/01-next-config-js/useLightningcss.md",
-    "website/zq-menyixiu-web/node_modules/next/dist/docs/02-pages/04-api-reference/04-config/01-next-config-js/urlImports.md",
-    "website/zq-menyixiu-web/node_modules/next/dist/docs/02-pages/04-api-reference/04-config/01-next-config-js/typescript.md",
-    "website/zq-menyixiu-web/node_modules/next/dist/docs/02-pages/04-api-reference/04-config/01-next-config-js/turbopack.md",
-    "website/zq-menyixiu-web/node_modules/next/dist/docs/02-pages/04-api-reference/04-config/01-next-config-js/transpilePackages.md"
+    "website/zq-menyixiu-web/node_modules/next/dist/docs/02-pages/04-api-reference/04-config/01-next-config-js/webVitalsAttribution.md"
   ]
 }
