@@ -1,5 +1,9 @@
 # 项目协作规则
 
+## 素材存档与网站发布
+
+视频、抖音链接与口稿需要存档、更新“常见故障”并提交发布时，使用项目技能 [men-material-push](.agents/skills/men-material-push/SKILL.md)。用户可直接调用 `$men-material-push`。该技能负责素材完整性、原稿归档、网站整理、双仓库提交推送及线上发布验证。
+
 ## 浏览器操作
 
 涉及网页查询、淘宝商品核对、登录页面或浏览器自动化时，先阅读并遵循 [Playwright 使用规则](docs/rules/playwright.md)。

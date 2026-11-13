@@ -1,0 +1,4 @@
+interface:
+  display_name: "门壹修素材存档与发布"
+  short_description: "存档视频、抖音链接和口稿，更新常见故障并推送双仓库、验证上线"
+  default_prompt: "使用 $men-material-push 将提供的视频、抖音链接和口稿存档到指定目录，更新网站常见故障，提交并推送两个仓库，确认线上发布成功。"
