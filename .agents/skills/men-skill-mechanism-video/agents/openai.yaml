@@ -1,0 +1,4 @@
+interface:
+  display_name: "门壹修原理动画"
+  short_description: "用实拍参照制作门体原理动画，核对卷向和动作，交付竖屏插镜和可编辑工程"
+  default_prompt: "使用 $men-skill-mechanism-video 按本期口稿和实拍制作原理插镜，导出可放进剪映的视频并保留可编辑工程。"

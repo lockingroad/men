@@ -1,5 +1,5 @@
-This is your new *vault*.
+# 枣强门壹修
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
-
-When you're ready, delete this note and make the vault your own.
+- 按题目找口稿、视频和复盘，打开[作品索引](content/INDEX.md)。
+- 查动画制作源、剪映交付包和网站内容位置，打开[项目地图](docs/project-map.md)。
+- 查主仓和网站如何提交或更新，打开[Git 速查](README.md)。

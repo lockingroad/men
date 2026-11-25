@@ -1,0 +1,4 @@
+interface:
+  display_name: "门壹修视频 FAQ 制作"
+  short_description: "将已有门壹修视频整理成网站故障问答，准备媒体并验证本地页面"
+  default_prompt: "用 $men-skill-video-geo-faq 将这条视频制作为门壹修网站 FAQ，准备媒体和来源并完成本地验证。"

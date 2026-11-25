@@ -1,0 +1,4 @@
+interface:
+  display_name: "门壹修抖音作品复盘"
+  short_description: "将作品表现整理为带日期的快照，核对留存和搜索数据，提炼下一期可验证的改动"
+  default_prompt: "使用 $men-skill-douyin-review 根据这期作品的截图或后台记录更新复盘，并列出下一条可以验证的调整。"

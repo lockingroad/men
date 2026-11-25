@@ -1,11 +1,14 @@
 # 枣强门壹修网站参考
 
+以下文件路径和命令均相对于 men 主仓库的 `website/zq-menyixiu-web/` 子模块。素材原件及作品索引位于主仓库 `content/`。
+
 ## Content Model
 
 - FAQ Markdown: `content/faq/*.md`
 - Reader and normalizer: `src/lib/markdown.js`
 - FAQ detail template: `src/app/faq/[slug]/page.js`
 - FAQ list: `src/app/faq/page.js`
+- Homepage FAQ selection and service wording: `src/lib/config.js` (including `HOME_FAQ_SLUGS`)
 - Service data: `src/lib/service-pages.js`
 - Service template: `src/app/services/[slug]/page.js`
 - Shared CSS: `src/index.css`
@@ -49,7 +52,7 @@ faqs: []
 reviewer: "刘金灿"
 ```
 
-Use the website publication date when the original Douyin date is unknown. `performance.asOf` must state when the public metrics were observed.
+Use `date` for website publication, `updated` for the website revision, and `video.uploadDate` for the hosted video's upload. Record the original Douyin publication date only when the source provides it. Include `performance` only for observed metrics and set `performance.asOf` to the observation date.
 
 ## Linking
 
@@ -61,15 +64,13 @@ Use the website publication date when the original Douyin date is unknown. `perf
 
 ## Public Wording
 
-- Brand: `枣强门壹修`
-- Response: `通常约30分钟响应，实际响应及到达时间以距离和当时工单为准`
-- Promise: `价格透明、不修不收费`
+- Read the current brand, response wording and service promises from `BRAND_NAME`, `SERVICE_RESPONSE_TEXT`, `SERVICE_RESPONSE_NOTE` and `SERVICE_PROMISES` in `src/lib/config.js`.
 - Do not publish `免费上门`, `县城内15分钟达`, unconfirmed 24-hour opening, or unverified price levels.
 - Do not prescribe weakening anti-pinch or safety protection without model-specific instructions and onsite inspection.
 
 ## Validation
 
-Run:
+Run in the Web submodule:
 
 ```bash
 npm test
@@ -78,6 +79,6 @@ npm run indexnow:dry
 git diff --check
 ```
 
-Inspect generated HTML for one H1, visible direct answer, all FAQ questions, parseable JSON-LD, source URL, hosted video URL, dated metrics, service link, and real sitemap `lastmod`.
+Inspect generated HTML for one H1, visible direct answer, all FAQ questions, parseable JSON-LD, source URL, hosted video URL, dates for any metrics shown, service link, and real sitemap `lastmod`.
 
-Test at least 1280×720 and 390×844. Confirm MP4 metadata readiness, no horizontal overflow, no important content covered by the mobile call bar, and no console errors.
+For a new page or changed layout, use headless Playwright at 1280×720 and 390×844. For a link-only update, inspect the generated source link and structured data. Confirm MP4 metadata readiness, no horizontal overflow, no important content covered by the mobile call bar, and no console errors.

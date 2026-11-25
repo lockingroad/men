@@ -1,0 +1,4 @@
+interface:
+  display_name: "门壹修素材存档与发布"
+  short_description: "归档完整素材，更新网站常见故障，推送双仓库并验证线上版本"
+  default_prompt: "用 $men-skill-material-push 归档这条视频、抖音链接和口稿，发布网站 FAQ 并确认线上内容。"

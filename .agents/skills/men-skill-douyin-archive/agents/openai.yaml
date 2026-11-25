@@ -1,0 +1,4 @@
+interface:
+  display_name: "门壹修抖音作品归档"
+  short_description: "在主仓库保存抖音原片与口稿，并按作品索引补齐来源和缺项"
+  default_prompt: "用 $men-skill-douyin-archive 将现有视频、口稿或抖音链接归入同一作品，更新索引并列出待补材料。"
