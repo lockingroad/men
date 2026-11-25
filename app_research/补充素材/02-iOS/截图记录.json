@@ -1,0 +1,29 @@
+{
+  "captureMethod": "Live Apple Developer Documents; temporary headless Chromium; unaltered top-of-page viewport",
+  "pages": [
+    {
+      "png": "01-CoreBluetooth-框架.png",
+      "source": "https://developer.apple.com/documentation/corebluetooth",
+      "status": 200,
+      "title": "Core Bluetooth | Apple Developer Documentation",
+      "heading": "Core Bluetooth",
+      "headingTop": 174,
+      "width": 540,
+      "height": 900,
+      "scrollWidth": 540,
+      "deviceScaleFactor": 2
+    },
+    {
+      "png": "02-startAdvertising-接口.png",
+      "source": "https://developer.apple.com/documentation/corebluetooth/cbperipheralmanager/startadvertising(_:)",
+      "status": 200,
+      "title": "startAdvertising(_:) | Apple Developer Documentation",
+      "heading": "startAdvertising(_:)",
+      "headingTop": 215,
+      "width": 540,
+      "height": 900,
+      "scrollWidth": 540,
+      "deviceScaleFactor": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" font-family="Noto Sans SC,Hiragino Sans GB,Arial Unicode MS,sans-serif" role="img" aria-labelledby="head note">
+  <title id="head">四种信号在频率轴上的位置</title>
+  <desc id="note">同一条十进对数轴，向上每一格频率变为十倍。NFC 为13.56 MHz，卷帘门遥控示例为433 MHz，蓝牙取2.4 GHz，红外取940 nm发光管的峰值波长折算为约319 THz。不是波形、速度或传播距离图。</desc>
+  <rect width="1080" height="1920" fill="#f6f3e9"/>
+  <g fill="#21332c"><text x="76" y="226" font-size="64" font-weight="700">它们在哪个频段？</text>
+  <text x="79" y="294" font-size="34" fill="#53645a">向上每一格，频率变为 10 倍</text></g>
+  <g stroke="#89978b" stroke-width="2" fill="none">
+    <path d="M169 1446V383 M160 398L169 383L178 398"/>
+    <path d="M135 1446H169"/>
+    <path d="M147 1314H169"/>
+    <path d="M135 1182H169"/>
+    <path d="M147 1050H169"/>
+    <path d="M135 918H169"/>
+    <path d="M147 786H169"/>
+    <path d="M135 654H169"/>
+    <path d="M147 522H169"/>
+    <path d="M135 390H169"/>
+  </g>
+    <g transform="translate(0 455.51)" fill="#21332c">
+      <circle cx="169" cy="0" r="8"/><path d="M185 0H220" fill="none" stroke="#84938a" stroke-width="2"/>
+      <text x="247" y="14" font-size="49" font-weight="650">红外遥控</text>
+      <text x="987" y="12" text-anchor="end" font-size="43">约 319 THz</text>
+      <text x="247" y="65" font-size="33" fill="#627168">以 940 nm 发光管为例</text>
+    </g>
+    <g transform="translate(0 1131.81)" fill="#21332c">
+      <circle cx="169" cy="0" r="8"/><path d="M185 0H220" fill="none" stroke="#84938a" stroke-width="2"/>
+      <text x="247" y="14" font-size="49" font-weight="650">蓝牙</text>
+      <text x="987" y="12" text-anchor="end" font-size="43">2.4 GHz</text>
+    </g>
+    <g transform="translate(0 1229.98)" fill="#087958">
+      <circle cx="169" cy="0" r="11"/><path d="M185 0H220" fill="none" stroke="#087958" stroke-width="2"/>
+      <text x="247" y="14" font-size="49" font-weight="650">卷帘门遥控</text>
+      <text x="987" y="12" text-anchor="end" font-size="43">433 MHz</text>
+    </g>
+    <g transform="translate(0 1428.54)" fill="#21332c">
+      <circle cx="169" cy="0" r="8"/><path d="M185 0H220" fill="none" stroke="#84938a" stroke-width="2"/>
+      <text x="247" y="14" font-size="49" font-weight="650">NFC</text>
+      <text x="987" y="12" text-anchor="end" font-size="43">13.56 MHz</text>
+    </g>
+</svg>

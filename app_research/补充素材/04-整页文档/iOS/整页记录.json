@@ -1,0 +1,101 @@
+[
+  {
+    "name": "CoreBluetooth",
+    "canonical": "https://developer.apple.com/documentation/corebluetooth",
+    "source": "https://developer.apple.com/documentation/corebluetooth",
+    "http": 200,
+    "browser": "156.0.8078.80",
+    "timestamp": "2026-11-06T09:58:16.116Z",
+    "deviceScaleFactor": 2,
+    "viewport": [
+      740,
+      960
+    ],
+    "documentCssPx": [
+      740,
+      5622
+    ],
+    "pngPx": [
+      1480,
+      11244
+    ],
+    "fullNativePage": true,
+    "nestedMainScrollers": [],
+    "mainHeading": "Core Bluetooth",
+    "sectionHeadings": [
+      "Core Bluetooth",
+      "Overview",
+      "Topics",
+      "Centrals",
+      "Peripherals",
+      "Data Transfer",
+      "Channel Sounding",
+      "Services",
+      "Supporting Types",
+      "Bluetooth Classic Support",
+      "Errors",
+      "Deprecated",
+      "See also",
+      "Related Documentation"
+    ],
+    "footer": "ms Toggle Menu Events Toggle Menu To submit feedback on documentation, visit Feedback Assistant. Select a color scheme preference Light Dark Auto English 简体中文 日本語 한국어 Español Deutsch Français Italiano Português Copyright © 2026 Apple Inc. All rights reserved.Terms of UsePrivacy PolicyAgreements and Guidelines",
+    "footerBottomCssY": 5622,
+    "nativeArchive": {
+      "format": "MHTML / CDP Page.captureSnapshot",
+      "offlineChrome": true,
+      "offlineNetworkBlocked": true,
+      "javaScriptDisabled": true,
+      "mainTextMatchesLiveExactly": true,
+      "normalizedMainCharacters": 4996,
+      "normalizedMainSHA256": "57a2a26f230d0ea62cd69985718965177a925aff3b8bf1834066f56ed46a532f"
+    },
+    "pngSHA256": "ccc3d8c17a4b8df1d597ee5775ae4604b2369097b8d8956306521c5e0e4c8068",
+    "archiveSHA256": "b7bf5a2ec30c2fea06f75694c2dd65743ca6dc433d8bd94b2ae9827b719de5e0"
+  },
+  {
+    "name": "startAdvertising",
+    "canonical": "https://developer.apple.com/documentation/corebluetooth/cbperipheralmanager/startadvertising(_:)",
+    "source": "https://developer.apple.com/documentation/corebluetooth/cbperipheralmanager/startadvertising(_:)",
+    "http": 200,
+    "browser": "156.0.8078.80",
+    "timestamp": "2026-11-06T09:58:22.356Z",
+    "deviceScaleFactor": 2,
+    "viewport": [
+      740,
+      960
+    ],
+    "documentCssPx": [
+      740,
+      2496
+    ],
+    "pngPx": [
+      1480,
+      4992
+    ],
+    "fullNativePage": true,
+    "nestedMainScrollers": [],
+    "mainHeading": "startAdvertising(_:)",
+    "sectionHeadings": [
+      "startAdvertising(_:)",
+      "Parameters",
+      "Discussion",
+      "Topics",
+      "Related Documentation",
+      "See also",
+      "Managing Advertising"
+    ],
+    "footer": "ms Toggle Menu Events Toggle Menu To submit feedback on documentation, visit Feedback Assistant. Select a color scheme preference Light Dark Auto English 简体中文 日本語 한국어 Español Deutsch Français Italiano Português Copyright © 2026 Apple Inc. All rights reserved.Terms of UsePrivacy PolicyAgreements and Guidelines",
+    "footerBottomCssY": 2496,
+    "nativeArchive": {
+      "format": "MHTML / CDP Page.captureSnapshot",
+      "offlineChrome": true,
+      "offlineNetworkBlocked": true,
+      "javaScriptDisabled": true,
+      "mainTextMatchesLiveExactly": true,
+      "normalizedMainCharacters": 2111,
+      "normalizedMainSHA256": "084143f67bf6a7fa90f0dc0ca274447ab5c57864fe2443b61b000776b355623d"
+    },
+    "pngSHA256": "891866d90f1ed8ca166959e9f047719748e67e7b03f12ca36b1ea9e886df0255",
+    "archiveSHA256": "36164dcac4293a429bb7050d610670a2f98839cb983d5377a8c68b7ff2fd38c7"
+  }
+]

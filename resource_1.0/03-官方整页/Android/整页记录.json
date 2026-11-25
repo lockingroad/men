@@ -1,0 +1,152 @@
+{
+  "capturedAt": "2026-11-06T10:01:12.717Z",
+  "browser": "156.0.8078.80",
+  "settings": {
+    "viewport": {
+      "width": 760,
+      "height": 1000
+    },
+    "deviceScaleFactor": 1.5,
+    "locale": "en-US",
+    "colorScheme": "light",
+    "reducedMotion": "reduce",
+    "serviceWorkers": "block"
+  },
+  "method": "Fresh anonymous headless Chrome; original complete native page layout. Full PNG from consecutive overlapping screenshots; no duplicated sticky header, no changes to the page. Top, middle and last viewport independently verified. Offline MHTML checked with network disabled.",
+  "pages": [
+    {
+      "name": "ConsumerIrManager",
+      "source": "https://developer.android.com/reference/android/hardware/ConsumerIrManager?hl=en",
+      "httpStatus": 200,
+      "png": "ConsumerIrManager-整页.png",
+      "archive": "ConsumerIrManager-整页.mhtml",
+      "pngPixels": [
+        1140,
+        7484
+      ],
+      "nativePage": {
+        "title": "ConsumerIrManager  |  API reference  |  Android Developers",
+        "h1": "ConsumerIrManager",
+        "height": 4911,
+        "width": 760,
+        "articleTop": 133,
+        "articleEnd": 3717,
+        "headings": [
+          "ConsumerIrManager\n\n    \n    \n      \n    \n\n    \n      \n      Stay organized with collections\n    \n    \n      \n      Save and categorize content based on your preferences.",
+          "Summary",
+          "Nested classes",
+          "Public methods",
+          "Inherited methods",
+          "Public methods",
+          "getCarrierFrequencies",
+          "hasIrEmitter",
+          "transmit"
+        ],
+        "footerLink": {
+          "text": "Privacy",
+          "y": 4755
+        },
+        "footerText": "Android / Chrome / Firebase / Google Cloud Platform / All products / Privacy / License / Brand guidelines / Get news and tips by email / Subscribe"
+      },
+      "stripCount": 7,
+      "viewportChecks": [
+        {
+          "scrollY": 0,
+          "meanPixelDifferenceNormalized": 0
+        },
+        {
+          "scrollY": 2456,
+          "meanPixelDifferenceNormalized": 0
+        },
+        {
+          "scrollY": 3989,
+          "meanPixelDifferenceNormalized": 0.00000277982
+        }
+      ],
+      "offlineVerification": {
+        "network": "disabled",
+        "articleHeadings": 9,
+        "requiredText": [
+          "hasIrEmitter",
+          "getCarrierFrequencies",
+          "transmit",
+          "The IR carrier frequency in Hertz"
+        ],
+        "footer": "Privacy"
+      },
+      "sha256": {
+        "png": "601bddebaefbf5d33ac8e65f090c5649d4c13bc4c308364cedb477c26472571e",
+        "mhtml": "3c86bbfd40f029a300886afe4c303bf8c4de0f0788ac65af076ef411eb82b17c"
+      }
+    },
+    {
+      "name": "BluetoothLeAdvertiser",
+      "source": "https://developer.android.com/reference/android/bluetooth/le/BluetoothLeAdvertiser?hl=en",
+      "httpStatus": 200,
+      "png": "BluetoothLeAdvertiser-整页.png",
+      "archive": "BluetoothLeAdvertiser-整页.mhtml",
+      "pngPixels": [
+        1140,
+        24162
+      ],
+      "nativePage": {
+        "title": "BluetoothLeAdvertiser  |  API reference  |  Android Developers",
+        "h1": "BluetoothLeAdvertiser",
+        "height": 16108,
+        "width": 760,
+        "articleTop": 133,
+        "articleEnd": 14914,
+        "headings": [
+          "BluetoothLeAdvertiser\n\n    \n    \n      \n    \n\n    \n      \n      Stay organized with collections\n    \n    \n      \n      Save and categorize content based on your preferences.",
+          "Summary",
+          "Public methods",
+          "Inherited methods",
+          "Public methods",
+          "startAdvertising",
+          "startAdvertising",
+          "startAdvertisingSet",
+          "startAdvertisingSet",
+          "startAdvertisingSet",
+          "startAdvertisingSet",
+          "stopAdvertising",
+          "stopAdvertisingSet"
+        ],
+        "footerLink": {
+          "text": "Privacy",
+          "y": 15952
+        },
+        "footerText": "Android / Chrome / Firebase / Google Cloud Platform / All products / Privacy / License / Brand guidelines / Get news and tips by email / Subscribe"
+      },
+      "stripCount": 22,
+      "viewportChecks": [
+        {
+          "scrollY": 0,
+          "meanPixelDifferenceNormalized": 0
+        },
+        {
+          "scrollY": 8054,
+          "meanPixelDifferenceNormalized": 0.0000320587
+        },
+        {
+          "scrollY": 15108,
+          "meanPixelDifferenceNormalized": 0.00000355622
+        }
+      ],
+      "offlineVerification": {
+        "network": "disabled",
+        "articleHeadings": 13,
+        "requiredText": [
+          "startAdvertising",
+          "startAdvertisingSet",
+          "stopAdvertisingSet",
+          "stopAdvertising"
+        ],
+        "footer": "Privacy"
+      },
+      "sha256": {
+        "png": "a99b518848e0c369659babc7b1c8d4e98122b70434da0cee2726145c95e58f65",
+        "mhtml": "2466d6f9494d713499927e77376a7813b8379e0cc7199b2fc8ebb29ba3b3521b"
+      }
+    }
+  ]
+}

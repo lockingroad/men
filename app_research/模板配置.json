@@ -1,0 +1,16 @@
+{
+  "duration": 6, "fps": 30,
+  "showLabels": true,
+  "time": {
+    "remotePress": 0.30, "signalStart": 0.47, "recognized": 1.12,
+    "liftStart": 1.32, "liftEnd": 2.58, "switch": 3.10,
+    "phonePress": 3.58, "phoneResult": 4.15
+  },
+  "palette": {
+    "paper": "#f6f3e9", "secondary": "#505f57", "signal": "#087958", "quiet": "#795844"
+  },
+  "copy": {
+    "remote": "原遥控器", "phone": "手机 App",
+    "rfTag": "433 MHz", "noSignal": "无 433 信号"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "input": "/Users/zhihu/Documents/个人/dev/men/content/卷帘门卷绕动画version1/preview.html",
+  "createdAt": "2026-11-04T13:47:02.029Z",
+  "configuration": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "seconds": 12,
+    "headless": true,
+    "offline": true
+  },
+  "consoleErrors": [],
+  "consoleWarnings": [],
+  "pageErrors": [],
+  "blockedNetworkRequests": [],
+  "captures": [
+    {
+      "seconds": 0,
+      "theme": "light",
+      "filename": "/Users/zhihu/Documents/个人/dev/men/content/卷帘门卷绕动画version1/qa/frame-00s.png",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "seconds": 3,
+      "theme": "light",
+      "filename": "/Users/zhihu/Documents/个人/dev/men/content/卷帘门卷绕动画version1/qa/frame-03s.png",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "seconds": 5.5,
+      "theme": "light",
+      "filename": "/Users/zhihu/Documents/个人/dev/men/content/卷帘门卷绕动画version1/qa/frame-5p5s.png",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "seconds": 6,
+      "theme": "light",
+      "filename": "/Users/zhihu/Documents/个人/dev/men/content/卷帘门卷绕动画version1/qa/frame-06s.png",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "seconds": 7,
+      "theme": "light",
+      "filename": "/Users/zhihu/Documents/个人/dev/men/content/卷帘门卷绕动画version1/qa/frame-07s.png",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "seconds": 8,
+      "theme": "light",
+      "filename": "/Users/zhihu/Documents/个人/dev/men/content/卷帘门卷绕动画version1/qa/frame-08s.png",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "seconds": 10,
+      "theme": "light",
+      "filename": "/Users/zhihu/Documents/个人/dev/men/content/卷帘门卷绕动画version1/qa/frame-10s.png",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "seconds": 3,
+      "theme": "light",
+      "filename": "/Users/zhihu/Documents/个人/dev/men/content/卷帘门卷绕动画version1/qa/junction-right-light-4x.png",
+      "width": 1280,
+      "height": 1280,
+      "clip": {
+        "x": 575,
+        "y": 484,
+        "width": 320,
+        "height": 320,
+        "scale": 4
+      },
+      "kind": "browser-rasterized-closeup"
+    },
+    {
+      "seconds": 3,
+      "theme": "dark",
+      "filename": "/Users/zhihu/Documents/个人/dev/men/content/卷帘门卷绕动画version1/qa/dark-03s.png",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "seconds": 6,
+      "theme": "dark",
+      "filename": "/Users/zhihu/Documents/个人/dev/men/content/卷帘门卷绕动画version1/qa/dark-06s.png",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "seconds": 3,
+      "theme": "dark",
+      "filename": "/Users/zhihu/Documents/个人/dev/men/content/卷帘门卷绕动画version1/qa/junction-right-dark-4x.png",
+      "width": 1280,
+      "height": 1280,
+      "clip": {
+        "x": 575,
+        "y": 484,
+        "width": 320,
+        "height": 320,
+        "scale": 4
+      },
+      "kind": "browser-rasterized-closeup"
+    }
+  ],
+  "mobile": {
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "documentWidth": 390,
+    "horizontalOverflow": false,
+    "stage": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 693.328125
+    },
+    "text": "门壹修 · 机械小课堂\n卷帘门，\n是怎样卷起来的？\n通用结构示意 / 外罩与驱动机构省略\n卷绕侧面 · 局部剖开示意\n03 / 逐片卷入\n到达上方，逐片绕上卷轴\n帘片连接处转动，门帘由直变弯。\n衡水枣强 · 门壹修\n结构与速度均为演示",
+    "filename": "/Users/zhihu/Documents/个人/dev/men/content/卷帘门卷绕动画version1/qa/phone-390.png"
+  },
+  "interactions": {
+    "advancedFrom": 2,
+    "advancedTo": 2.17,
+    "pausedAt": 2.2,
+    "afterPause": 2.2,
+    "paused": true,
+    "scrubbed": 9.25,
+    "scrubStayed": 9.25,
+    "scrubReadout": "9.3 / 12 秒",
+    "sliderPassed": true,
+    "replayAt": 0.02,
+    "replayAdvanced": 0.18,
+    "replayPassed": true,
+    "passed": true
+  },
+  "video": {
+    "filename": "/Users/zhihu/Documents/个人/dev/men/content/卷帘门卷绕动画version1/卷帘门怎样卷起来-v1.mp4",
+    "codec": "h264",
+    "pixelFormat": "yuv420p",
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "frames": 360,
+    "seconds": 12,
+    "bytes": 2408428,
+    "audioTracks": 0
+  },
+  "status": "passed"
+}
